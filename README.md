@@ -122,7 +122,7 @@ Durante o 1º ano, realizei trabalhos práticos aplicados em colegas da turma e 
 |**PIM / PEM**     |Avalia a força dos músculos respiratórios. A **PIM** (Pressão Inspiratória Máxima) mede a força ao inspirar; a **PEM** (Pressão Expiratória Máxima) mede a força ao expirar. Essencial para detetar fraqueza muscular respiratória.|
 
 
-> 🧪 *Aplicação prática: exames realizados em colegas da turma como voluntários.*
+> 🧪 *Aplicação prática: exames realizados no pai e no primo da Laura como voluntários.*
 
 -----
 
@@ -134,7 +134,7 @@ Durante o 1º ano, realizei trabalhos práticos aplicados em colegas da turma e 
 |**Prova de Esforço**       |ECG realizado durante esforço físico progressivo (geralmente em passadeira ou bicicleta). Avalia como o coração responde ao aumento da exigência — fundamental para detetar isquemia de esforço e avaliar a capacidade cardíaca.|
 
 
-> 🧪 *Aplicação prática: ECG realizado em colegas da turma; prova de esforço realizada no pai da Laura como voluntário.*
+> 🧪 *Aplicação prática: ECG realizado em colegas da turma; prova de esforço realizada numa colega como voluntária.*
 
 -----
 
