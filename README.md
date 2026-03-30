@@ -79,6 +79,15 @@ Acredito que a ciência clínica tem o poder de transformar vidas — e quero fa
 
 -----
 
+### 📄 Trabalhos de Pesquisa Escritos
+
+|Trabalho                                                                       |Cadeira                      |Descrição                                                                                                                                                                                                                                                                              |
+|-------------------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[📄 Histologia dos Vasos Sanguíneos](trabalhos/histologia-vasos-sanguineos.pdf) |Biologia Celular e Histologia|Atlas histológico sobre a morfologia dos vasos sanguíneos — artérias elásticas e musculares, arteríolas, veias, vénulas e capilares, com análise microscópica das túnicas íntima, média e adventícia. Trabalho de grupo realizado na P.Porto / ESS.                                    |
+|[📄 AVC: Panorama Global e Abordagens Atuais](trabalhos/avc-panorama-global.pdf)|Neuroanatomia Funcional      |Trabalho de pesquisa aprofundado sobre o Acidente Vascular Cerebral — epidemiologia, fisiopatologia, diagnóstico (TAC, RM, ECG), tratamento (trombólise, trombectomia), prognóstico e perspetivas futuras com células estaminais e inteligência artificial. Realizado na P.Porto / ESS.|
+
+-----
+
 ### 🫀 Cardiologia & Patologia Cardiovascular
 
 |Projeto                                                                         |Cadeira                      |Descrição                                                                                                                                                                            |
