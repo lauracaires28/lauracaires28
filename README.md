@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Sou estudante do 2º ano da Licenciatura em ** Fisiologia Clinica** na área de ** Cardiopneumologia e Neurofisiologia**. A minha paixão está no estudo do sistema nervoso — de como o cérebro funciona, comunica e, quando algo corre menos bem, como podemos compreendê-lo melhor.
+Sou estudante do 2º ano da Licenciatura em **Fisiologia Clinica** na área de **Cardiopneumologia e Neurofisiologia**. A minha paixão está no estudo do sistema nervoso — de como o cérebro funciona, comunica e, quando algo corre menos bem, como podemos compreendê-lo melhor.
 
 O meu objetivo a longo prazo é seguir um **Mestrado em Neuropsicologia**, combinando a base técnica e clínica da minha licenciatura com uma abordagem mais profunda do comportamento humano e das funções cognitivas.
 
