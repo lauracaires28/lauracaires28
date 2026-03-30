@@ -81,29 +81,29 @@ Acredito que a ciência clínica tem o poder de transformar vidas — e quero fa
 
 ### 🫀 Cardiologia & Patologia Cardiovascular
 
-|Projeto                                                                                            |Cadeira                      |Descrição                                                                                                                                                                            |
-|---------------------------------------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[📊 Classificação das Doenças da Aorta](trabalhos/classificacao-doencas-aorta.pptx)                 |Patologia Cardiorrespiratória|Apresentação sobre os diferentes tipos de patologia aórtica — aneurismas, dissecções e outras alterações estruturais da aorta, com critérios de classificação clínica e imagiológica.|
-|[📊 Valvulopatia Tricúspide e Pulmonar](trabalhos/valvulopatia-tricuspide-pulmonar.pptx)            |Patologia Cardiorrespiratória|Estudo das doenças das válvulas tricúspide e pulmonar, incluindo estenose e regurgitação, etiologia, apresentação clínica e abordagem diagnóstica.                                   |
-|[📊 Cardiomiopatia Hipertrófica e Restritiva](trabalhos/cardiomiopatia-hipertrofica-restritiva.pptx)|Patologia Cardiorrespiratória|Análise comparativa entre cardiomiopatia hipertrófica e restritiva — fisiopatologia, critérios diagnósticos, achados no ECG e ecocardiograma, e implicações clínicas.                |
+|Projeto                                                                         |Cadeira                      |Descrição                                                                                                                                                                            |
+|--------------------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[📊 Classificação das Doenças da Aorta](https://canva.link/i25wd510570ytlx)      |Patologia Cardiorrespiratória|Apresentação sobre os diferentes tipos de patologia aórtica — aneurismas, dissecções e outras alterações estruturais da aorta, com critérios de classificação clínica e imagiológica.|
+|[📊 Valvulopatia Tricúspide e Pulmonar](https://canva.link/yplldew20vi9euo)      |Patologia Cardiorrespiratória|Estudo das doenças das válvulas tricúspide e pulmonar, incluindo estenose e regurgitação, etiologia, apresentação clínica e abordagem diagnóstica.                                   |
+|[📊 Cardiomiopatia Hipertrófica e Restritiva](https://canva.link/uscvji842kl7sed)|Patologia Cardiorrespiratória|Análise comparativa entre cardiomiopatia hipertrófica e restritiva — fisiopatologia, critérios diagnósticos, achados no ECG e ecocardiograma, e implicações clínicas.                |
 
 -----
 
 ### 🧠 Neurofisiologia & Projetos Especiais
 
-|Projeto                                            |Cadeira               |Descrição                                                                                                                                                                                           |
-|---------------------------------------------------|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[📊 Projeto MKUltra](trabalhos/projeto-mkultra.pptx)|Bioética e Deontologia|Análise crítica do programa secreto da CIA de controlo mental — abordagem das violações éticas, experimentação não consentida em humanos e as consequências legais e bioéticas deste caso histórico.|
+|Projeto                                                |Cadeira               |Descrição                                                                                                                                                                                           |
+|-------------------------------------------------------|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[📊 Projeto MKUltra](https://canva.link/2uzhdbfk6iall1c)|Bioética e Deontologia|Análise crítica do programa secreto da CIA de controlo mental — abordagem das violações éticas, experimentação não consentida em humanos e as consequências legais e bioéticas deste caso histórico.|
 
 -----
 
 ### 💊 Farmacologia & Educação em Saúde
 
-|Projeto                                                                             |Cadeira                                     |Descrição                                                                                                                                                   |
-|------------------------------------------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[📊 The Circulatory System](trabalhos/circulatory-system-presentation.pptx)          |Fisiologia / Introdução à Fisiologia Clínica|Apresentação educativa sobre o sistema circulatório — anatomia, fisiologia cardíaca, circulação pulmonar e sistémica, com design visual ilustrativo.        |
-|[📊 Farmácia Caseira](trabalhos/farmacia-caseira.pptx)                               |Farmacologia e Terapêutica Aplicada         |Guia prático sobre medicamentos essenciais para ter em casa — indicações, contraindicações, precauções e uso responsável do medicamento sem prescrição.     |
-|[📊 Promoção de Saúde — Farmácia (Instagram)](trabalhos/instagram-post-farmacia.pptx)|Farmacologia e Terapêutica Aplicada         |Projeto de comunicação em saúde desenvolvido em formato digital para redes sociais, com foco na promoção do uso correto de medicamentos junto da comunidade.|
+|Projeto                                                                         |Cadeira                                     |Descrição                                                                                                                                                   |
+|--------------------------------------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[📊 The Circulatory System](https://canva.link/qgj1wmlw8e5vq39)                  |Fisiologia / Introdução à Fisiologia Clínica|Apresentação educativa sobre o sistema circulatório — anatomia, fisiologia cardíaca, circulação pulmonar e sistémica, com design visual ilustrativo.        |
+|[📊 Farmácia Caseira](https://canva.link/4hjtqd5t9z3rlwj)                        |Farmacologia e Terapêutica Aplicada         |Guia prático sobre medicamentos essenciais para ter em casa — indicações, contraindicações, precauções e uso responsável do medicamento sem prescrição.     |
+|[📊 Promoção de Saúde — Farmácia (Instagram)](https://canva.link/nej0ikt8rujrpi1)|Farmacologia e Terapêutica Aplicada         |Projeto de comunicação em saúde desenvolvido em formato digital para redes sociais, com foco na promoção do uso correto de medicamentos junto da comunidade.|
 
 -----
 
