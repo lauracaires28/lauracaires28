@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Sou estudante do 2º ano da Licenciatura em **Fisiologia Clinica** na área de **Cardiopneumologia e Neurofisiologia**. A minha paixão está no estudo do sistema nervoso — de como o cérebro funciona, comunica e, quando algo corre menos bem, como podemos compreendê-lo melhor.
+Sou estudante do 2º ano da Licenciatura em **Cardiopneumologia e Neurofisiologia** na área de **Fisiologia Clínica**. A minha paixão está no estudo do sistema nervoso — de como o cérebro funciona, comunica e, quando algo corre menos bem, como podemos compreendê-lo melhor.
 
 O meu objetivo a longo prazo é seguir um **Mestrado em Neuropsicologia**, combinando a base técnica e clínica da minha licenciatura com uma abordagem mais profunda do comportamento humano e das funções cognitivas.
 
@@ -70,6 +70,48 @@ Acredito que a ciência clínica tem o poder de transformar vidas — e quero fa
 |🚨 Emergência Médica       |Clínica          |
 |💓 Patologia Cardiovascular|Cardiopneumologia|
 |🫁 Ventilação Mecânica     |Cardiopneumologia|
+
+-----
+
+## Trabalhos Práticos Laboratoriais 🩺
+
+Durante o 1º ano, realizei trabalhos práticos aplicados em colegas da turma e num familiar — uma experiência que aproximou a teoria da realidade clínica.
+
+-----
+
+### 🫁 Função Respiratória
+
+|Exame             |O que é                                                                                                                                                                                                                            |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**Espirometria**  |Mede os volumes e fluxos de ar que os pulmões conseguem mover. Avalia a capacidade vital, o volume expiratório forçado (FEV1) e deteta padrões obstrutivos ou restritivos. É o exame base para diagnóstico de asma e DPOC.         |
+|**Pletismografia**|Vai além da espirometria — mede o volume total de ar nos pulmões, incluindo o ar que não é possível expirar voluntariamente. Realizada numa cabine hermética, é o gold standard para avaliação pulmonar completa.                  |
+|**PIM / PEM**     |Avalia a força dos músculos respiratórios. A **PIM** (Pressão Inspiratória Máxima) mede a força ao inspirar; a **PEM** (Pressão Expiratória Máxima) mede a força ao expirar. Essencial para detetar fraqueza muscular respiratória.|
+
+
+> 🧪 *Aplicação prática: exames realizados em colegas da turma como voluntários.*
+
+-----
+
+### 💓 Cardiologia
+
+|Exame                      |O que é                                                                                                                                                                                                                         |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**Eletrocardiograma (ECG)**|Regista a atividade elétrica do coração através de elétrodos colocados na pele. Permite identificar arritmias, bloqueios, isquemia e outras patologias cardíacas. É um dos exames mais utilizados na medicina.                  |
+|**Prova de Esforço**       |ECG realizado durante esforço físico progressivo (geralmente em passadeira ou bicicleta). Avalia como o coração responde ao aumento da exigência — fundamental para detetar isquemia de esforço e avaliar a capacidade cardíaca.|
+
+
+> 🧪 *Aplicação prática: ECG realizado em colegas da turma; prova de esforço realizada no pai da Laura como voluntário.*
+
+-----
+
+### 🧠 Neurofisiologia
+
+|Exame                      |O que é                                                                                                                                                                                                                           |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**Eletroneurografia (ENG)**|Avalia a velocidade e amplitude de condução dos nervos periféricos através de estímulos elétricos. Permite diagnosticar neuropatias, compressões nervosas (como síndrome do túnel cárpico) e lesões do sistema nervoso periférico.|
+
+
+> 🧪 *Aplicação prática: exame realizado em colegas da turma como voluntários.*
 
 -----
 
