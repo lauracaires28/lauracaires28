@@ -99,11 +99,11 @@ Acredito que a ciência clínica tem o poder de transformar vidas — e quero fa
 
 ### 💊 Farmacologia & Educação em Saúde
 
-|Projeto                                                                         |Cadeira                                     |Descrição                                                                                                                                                   |
-|--------------------------------------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[📊 The Circulatory System](https://canva.link/qgj1wmlw8e5vq39)                  |Fisiologia / Introdução à Fisiologia Clínica|Apresentação educativa sobre o sistema circulatório — anatomia, fisiologia cardíaca, circulação pulmonar e sistémica, com design visual ilustrativo.        |
-|[📊 Farmácia Caseira](https://canva.link/4hjtqd5t9z3rlwj)                        |Farmacologia e Terapêutica Aplicada         |Guia prático sobre medicamentos essenciais para ter em casa — indicações, contraindicações, precauções e uso responsável do medicamento sem prescrição.     |
-|[📊 Promoção de Saúde — Farmácia (Instagram)](https://canva.link/nej0ikt8rujrpi1)|Farmacologia e Terapêutica Aplicada         |Projeto de comunicação em saúde desenvolvido em formato digital para redes sociais, com foco na promoção do uso correto de medicamentos junto da comunidade.|
+|Projeto                                                                 |Cadeira                            |Descrição                                                                                                                                                          |
+|------------------------------------------------------------------------|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[📊 Insuficiência Cardíaca](https://canva.link/qgj1wmlw8e5vq39)          |Patologia Cardiorrespiratória      |Apresentação sobre insuficiência cardíaca — fisiopatologia, tipos (sistólica e diastólica), sintomatologia, critérios diagnósticos e abordagem terapêutica.        |
+|[📊 Farmácia Caseira](https://canva.link/4hjtqd5t9z3rlwj)                |Farmacologia e Terapêutica Aplicada|Guia prático sobre medicamentos essenciais para ter em casa — indicações, contraindicações, precauções e uso responsável do medicamento sem prescrição.            |
+|[📊 Panfleto Informativo — EMG e ENG](https://canva.link/nej0ikt8rujrpi1)|Eletromiografia I                  |Panfleto educativo sobre Eletromiografia (EMG) e Eletroneurografia (ENG) — princípios dos exames, indicações clínicas, procedimento e interpretação dos resultados.|
 
 -----
 
